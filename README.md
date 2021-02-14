@@ -1,4 +1,4 @@
-# eight_puzzle_game
+# eight_puzzle_problem_game
 
 This is a flutter game/project based on the famous 8 puzzle problem where you can swipe the no. '0' in 4 directions(up, down, left, right) to obtain the goal state.
 
